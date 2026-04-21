@@ -1,0 +1,3 @@
+[submodule "CycleGANAS"]
+	path = CycleGANAS
+	url = .
