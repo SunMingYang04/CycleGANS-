@@ -24,7 +24,7 @@ echo "CycleGANAS训练开始于: $START_TIME"
 echo "=============================================="
 
 # 1. 进入工作目录
-cd /autodl-tmp/CycleGANAS
+cd /workspace/CycleGANAS
 echo "当前工作目录: $(pwd)"
 
 # 2. 安装依赖
